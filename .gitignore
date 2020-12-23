@@ -1,2 +1,2 @@
 *.sqlite3
-votersplat/settings.py
+/votersplat/settings.py
